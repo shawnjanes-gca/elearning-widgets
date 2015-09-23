@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS by Shawn Janes */
+
+*, *::after, *::before
+{
+  box-sizing: border-box;
+}
+
+.explanation
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	line-height: 27px;
+	color: #222222;
+	font-weight: 300;
+}
+
+.explanation
+{
+  background-color: lightyellow;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+}
+
+.explanation
+{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 1rem;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 1rem;
+  font-weight: 300;
+  font-style: italic;
+  border-left-width: 5px;
+  border-left-style: solid;
+  border-left-color: #cccccc;
+}
+
+.explanation
+{
+  display: block;
+  font-style: normal;
+}
+
+.explanation
+{
+  background-color: lightyellow;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+}
